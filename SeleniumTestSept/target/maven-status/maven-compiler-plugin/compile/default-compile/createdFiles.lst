@@ -1,0 +1,5 @@
+com\qa\pagelayer\basicControlsPage.class
+com\qa\testdata\DataDriventest.class
+com\qa\baseLayer\TestBase.class
+com\qa\reporting\ReportingTest.class
+com\qa\utility\ReadConfigFile.class

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-14T16:12:01Z" name="Suite" finished-at="2023-09-14T16:12:49Z" duration-ms="48213">
+    <groups>
+    </groups>
+    <test started-at="2023-09-14T16:12:01Z" name="Test" finished-at="2023-09-14T16:12:49Z" duration-ms="48213">
+      <class name="com.qa.TestLayer.TestCase_001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestLayer.TestCase_001@4c60d6e9]" started-at="2023-09-14T21:42:02Z" name="setup" finished-at="2023-09-14T21:42:12Z" duration-ms="10122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="formFill(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.TestLayer.TestCase_001@4c60d6e9]" started-at="2023-09-14T21:42:12Z" name="formFill" data-provider="passDataFromExcel" finished-at="2023-09-14T21:42:13Z" duration-ms="1661" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jp@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[john123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- formFill -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.TestLayer.TestCase_001@4c60d6e9]" started-at="2023-09-14T21:42:13Z" name="closeBrowser" finished-at="2023-09-14T21:42:14Z" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestLayer.TestCase_001@4c60d6e9]" started-at="2023-09-14T21:42:14Z" name="setup" finished-at="2023-09-14T21:42:22Z" duration-ms="8514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="formFill(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.TestLayer.TestCase_001@4c60d6e9]" started-at="2023-09-14T21:42:22Z" name="formFill" data-provider="passDataFromExcel" finished-at="2023-09-14T21:42:24Z" duration-ms="1231" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Son]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ss@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ss123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- formFill -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.TestLayer.TestCase_001@4c60d6e9]" started-at="2023-09-14T21:42:24Z" name="closeBrowser" finished-at="2023-09-14T21:42:24Z" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestLayer.TestCase_001@4c60d6e9]" started-at="2023-09-14T21:42:24Z" name="setup" finished-at="2023-09-14T21:42:31Z" duration-ms="7402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="formFill(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.TestLayer.TestCase_001@4c60d6e9]" started-at="2023-09-14T21:42:31Z" name="formFill" data-provider="passDataFromExcel" finished-at="2023-09-14T21:42:33Z" duration-ms="1351" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jack]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jill]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jj@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jj123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- formFill -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.TestLayer.TestCase_001@4c60d6e9]" started-at="2023-09-14T21:42:33Z" name="closeBrowser" finished-at="2023-09-14T21:42:33Z" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestLayer.TestCase_001@4c60d6e9]" started-at="2023-09-14T21:42:33Z" name="setup" finished-at="2023-09-14T21:42:40Z" duration-ms="7230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="formFill(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.TestLayer.TestCase_001@4c60d6e9]" started-at="2023-09-14T21:42:40Z" name="formFill" data-provider="passDataFromExcel" finished-at="2023-09-14T21:42:41Z" duration-ms="1295" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jt@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jt123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- formFill -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.TestLayer.TestCase_001@4c60d6e9]" started-at="2023-09-14T21:42:41Z" name="closeBrowser" finished-at="2023-09-14T21:42:42Z" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestLayer.TestCase_001@4c60d6e9]" started-at="2023-09-14T21:42:42Z" name="setup" finished-at="2023-09-14T21:42:48Z" duration-ms="6791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateLinkTxt()[pri:0, instance:com.qa.TestLayer.TestCase_001@4c60d6e9]" started-at="2023-09-14T21:42:48Z" name="validateLinkTxt" finished-at="2023-09-14T21:42:48Z" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLinkTxt -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.TestLayer.TestCase_001@4c60d6e9]" started-at="2023-09-14T21:42:48Z" name="closeBrowser" finished-at="2023-09-14T21:42:49Z" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.TestLayer.TestCase_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
